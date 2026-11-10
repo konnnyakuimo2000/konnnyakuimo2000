@@ -25,6 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-1F1D19?style=for-the-badge&logo=claude&logoColor=E9AF2B" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-1F1D19?style=for-the-badge&logo=gnometerminal&logoColor=E9AF2B" alt="Codex">
   <img src="https://img.shields.io/badge/Gemini-1F1D19?style=for-the-badge&logo=googlegemini&logoColor=E9AF2B" alt="Gemini">
   <img src="https://img.shields.io/badge/LangGraph-1F1D19?style=for-the-badge&logo=langgraph&logoColor=E9AF2B" alt="LangGraph">
 </p>
