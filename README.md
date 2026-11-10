@@ -1,13 +1,11 @@
 <h1 align="center">Konjac</h1>
 
 <p align="center">
-  <b>I'm a Konjac.</b><br>
+  
   ゲームやツールを作ってます。
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/based_in-Japan-E9AF2B?style=for-the-badge&labelColor=1F1D19" alt="Based in Japan">
-</p>
+
 
 <h3 align="center">Works</h3>
 
