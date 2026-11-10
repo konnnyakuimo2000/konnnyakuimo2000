@@ -1,9 +1,6 @@
 <h1 align="center">Konjac</h1>
 
-<p align="center">
-  
-  ゲームやツールを作ってます。
-</p>
+<p align="center">ゲームやツールを作ってます。</p>
 
 
 
