@@ -20,7 +20,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,html,css,js,powershell,unity,fastapi,pytorch,git,github&theme=dark&perline=11" alt="Python, C#, HTML, CSS, JavaScript, PowerShell, Unity, FastAPI, PyTorch, Git, GitHub">
+  <img src="https://skillicons.dev/icons?i=py,cs,c,java,ruby,html,css,js,powershell,unity,fastapi,pytorch,git,github&theme=dark&perline=7" alt="Python, C#, C, Java, Ruby, HTML, CSS, JavaScript, PowerShell, Unity, FastAPI, PyTorch, Git, GitHub">
 </p>
 
 <p align="center">
